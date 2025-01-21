@@ -51,12 +51,6 @@ You can find some samples questions we could answer in the file Analysis_Employe
 These are just a few examples of the analyses you could perform using SQL queries. SQL provides powerful tools to filter and analyse data, allowing you to gain valuable insights from the Employee Payroll Database.
 
 
-## Contributing
-
-This project was realised during a course at TechTalent Academy.
-Contributions to this project are welcome. If you have any improvements, bug fixes, or new features to propose, please follow the standard GitHub workflow for contributions (fork, branch, pull request).
-
-
 ## Source
 
 https://controllerdata.lacity.org/Payroll/City-Employee-Payroll-Current-/g9h8-fvhu
